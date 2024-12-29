@@ -17,7 +17,6 @@ public class Main1 {
                 printWriter.println(index + " " + word + " " + word.length());
                 index++;
             }
-
             printWriter.close();
             fileWriter.close();
             scanner.close();
